@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 
 [![Amadou's github stats](https://github-readme-stats.vercel.app/api?username=tigamadou&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=tigamadou)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Top languages
+
+
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tigamadou">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tigamadou&layout=compact" />
+</a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tigamadou">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tigamadou&layout=compact" />
+</a>
